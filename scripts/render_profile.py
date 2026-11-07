@@ -45,7 +45,7 @@ function read(file) {
   const icons = fs.readFileSync(path.join(site, 'src/components/social-icons.tsx'), 'utf8');
   const matches = [...icons.matchAll(/<svg[^>]*>([\s\S]*?)<\/svg>/g)];
   for (const [index, match] of matches.entries()) {
-    const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#bdb8c0">${match[1]}</svg>`;
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#bdb8c0" color="#bdb8c0">${match[1].replaceAll("strokeWidth", "stroke-width")}</svg>`;
     await sharp(Buffer.from(svg)).resize(24, 24).png().toFile(path.join(out, `social-${index}.png`));
   }
   console.log(JSON.stringify({ intro: content.homeIntro, trust: content.trustedBy,
@@ -134,9 +134,9 @@ function read(file) {
             d.text((x, y), word, font=body, fill='#f5f0f8' if underlined else '#d0d0d0', anchor='lm')
             if underlined: d.line((x, y + 12, x + width, y + 12), fill='#9e8ba9', width=1)
             x += width
-    for i in range(3):
+    for i in range(5):
         icon = Image.open(temp / f'social-{i}.png').convert('RGBA')
-        overlay.alpha_composite(icon, (540 + i * 48, 385))
+        overlay.alpha_composite(icon, (492 + i * 48, 385))
     stats = [(data['years'], 'Years shipping'), ('5', 'Selected systems'), ('5+', 'Enterprise orgs'), (str(data['skills']), 'Core skills')]
     for i, (value, label) in enumerate(stats):
         x = 240 + i * 240
