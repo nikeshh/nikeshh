@@ -9,7 +9,7 @@
 
 <br />
 
-**Principal AI Consultant/Engineer, Full-Stack Builder &amp; Platform Engineer**
+**Principal AI Consultant/Engineer, Forward Deployed Engineer, Full-Stack Builder &amp; Platform Engineer**
 
 [**Website ↗**](https://nikeshh.com) &nbsp;&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/nikeshh/) &nbsp;&nbsp; [**X ↗**](https://x.com/NikeshhV) &nbsp;&nbsp; [**Say hello ↗**](https://nikeshh.com/?contact=1)
 
