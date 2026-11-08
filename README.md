@@ -11,7 +11,7 @@
 
 **Principal AI Consultant/Engineer, Forward Deployed Engineer, Full-Stack Builder &amp; Platform Engineer**
 
-[**Website ↗**](https://nikeshh.com) &nbsp;&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/nikeshh/) &nbsp;&nbsp; [**X ↗**](https://x.com/NikeshhV) &nbsp;&nbsp; [**GitHub ↗**](https://github.com/heynikeshh) &nbsp;&nbsp; [**Say hello ↗**](https://nikeshh.com/?contact=1) &nbsp;&nbsp; [**Facebook ↗**](https://www.facebook.com/nikeshhvijayabaskaran/) &nbsp;&nbsp; [**Instagram ↗**](https://www.instagram.com/nikeshhvijayabaskaran/)
+[**Website ↗**](https://nikeshh.com) &nbsp;&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/nikeshhvijayabaskaran/) &nbsp;&nbsp; [**X ↗**](https://x.com/NikeshhV) &nbsp;&nbsp; [**GitHub ↗**](https://github.com/heynikeshh) &nbsp;&nbsp; [**Say hello ↗**](https://nikeshh.com/?contact=1) &nbsp;&nbsp; [**Facebook ↗**](https://www.facebook.com/nikeshhvijayabaskaran/) &nbsp;&nbsp; [**Instagram ↗**](https://www.instagram.com/nikeshhvijayabaskaran/)
 
 </div>
 
